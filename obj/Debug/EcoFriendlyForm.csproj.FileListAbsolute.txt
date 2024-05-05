@@ -1,0 +1,10 @@
+C:\Users\vboxuser\Source\Repos\EcoFriendlyForm\EcoFriendlyForm\obj\Debug\EcoFriendlyForm.csproj.AssemblyReference.cache
+C:\Users\vboxuser\Source\Repos\EcoFriendlyForm\EcoFriendlyForm\obj\Debug\EcoFriendlyForm.Properties.Resources.resources
+C:\Users\vboxuser\Source\Repos\EcoFriendlyForm\EcoFriendlyForm\obj\Debug\EcoFriendlyForm.csproj.GenerateResource.cache
+C:\Users\vboxuser\Source\Repos\EcoFriendlyForm\EcoFriendlyForm\obj\Debug\EcoFriendlyForm.csproj.CoreCompileInputs.cache
+C:\Users\vboxuser\Source\Repos\EcoFriendlyForm\EcoFriendlyForm\bin\Debug\EcoFriendlyForm.exe.config
+C:\Users\vboxuser\Source\Repos\EcoFriendlyForm\EcoFriendlyForm\bin\Debug\EcoFriendlyForm.exe
+C:\Users\vboxuser\Source\Repos\EcoFriendlyForm\EcoFriendlyForm\bin\Debug\EcoFriendlyForm.pdb
+C:\Users\vboxuser\Source\Repos\EcoFriendlyForm\EcoFriendlyForm\obj\Debug\EcoFriendlyForm.exe
+C:\Users\vboxuser\Source\Repos\EcoFriendlyForm\EcoFriendlyForm\obj\Debug\EcoFriendlyForm.pdb
+C:\Users\vboxuser\Source\Repos\EcoFriendlyForm\EcoFriendlyForm\obj\Debug\WindowsFormsApp1.Form1.resources
